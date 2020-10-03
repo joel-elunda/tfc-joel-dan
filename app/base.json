@@ -1,0 +1,121 @@
+[
+
+    {
+        "lang" : "fr-ln",
+        "translation" : [
+            {
+                "text" : "Bonjour",
+                "translatedText": "Mbote"
+            },
+            {
+                "text" : "Comment allez-vous",
+                "translatedText": "Boni"
+            },
+            {
+                "text" : "Très bien, merci et vous",
+                "translatedText": "Ngai malamu, bongo yo"
+            },
+            {
+                "text" : "Parlez-vous français/anglais",
+                "translatedText": "Oyebi koloba français"
+            },
+            {
+                "text" : "Je comprends/ Je ne comprends pas",
+                "translatedText": "Nazoyoka/nazoyoka te"
+            },
+            {
+                "text" : "Pardon",
+                "translatedText": "Limbisa ngai"
+            },
+            {
+                "text" : "Au revoir",
+                "translatedText": "Tokomonana"
+            },
+            {
+                "text" : "Bienvenue",
+                "translatedText": "Likambote"
+            },
+            {
+                "text" : "Merci (beaucoup)",
+                "translatedText": "Matondi (mingi)"
+            },
+            {
+                "text" : "Excusez-moi/SVP",
+                "translatedText": "Limbisa ngai"
+            },
+            {
+                "text" : "Je suis Français(e)",
+                "translatedText": "Nazali français"
+            },
+            {
+                "text" : "Je m’appelle…",
+                "translatedText": "Kombo na ngai..."
+            },
+            {
+                "text" : "Non merci",
+                "translatedText": "Te matondi"
+            },
+            {
+                "text" : "Oui/Non",
+                "translatedText": "é-ee/te"
+            }, 
+            {
+                "text" : "C’est combien ?",
+                "translatedText": "Talo boni ?"
+            },
+            {
+                "text" : "C’est très bon marché",
+                "translatedText": "Ezali ya motoya te"
+            },
+            {
+                "text" : "C’est trop cher !",
+                "translatedText": "Ezali ntalo mingi !"
+            },
+            {
+                "text" : "Pouvez-vous baisser le prix ?",
+                "translatedText": "Kitisa talo ?"
+            },
+            {
+                "text" : "Je voudrais acheter … ça, celui-ci !",
+                "translatedText": "Nalingi sumba"
+            },
+            {
+                "text" : "Argent",
+                "translatedText": "Mbongo"
+            },
+            {
+                "text" : "Je ne fais que regarder.",
+                "translatedText": "Nazali ekeka"
+            },
+            {
+                "text" : "Quelle heure est-il ?",
+                "translatedText": ""
+            },
+            {
+                "text" : "Quand ?",
+                "translatedText": "Ntángo"
+            },
+            {
+                "text" : "Hier / Demain",
+                "translatedText": "Lobi"
+            },
+            {
+                "text" : "Aujourd’hui (matin/midi/soir)",
+                "translatedText": "Lelo"
+            }
+            
+        ]      
+    },
+    
+    {
+        "lang" : "en-ln",
+        "translation" : [
+            {
+                "text" : "",
+                "translatedText": ""
+            }
+        ]      
+    }
+
+    
+]
