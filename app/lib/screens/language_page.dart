@@ -22,8 +22,9 @@ class _LanguagePageState extends State<LanguagePage> {
 
     Language('auto', 'Automatique', false, false, false),
     Language('fr', 'Français', true, true, true),
-    Language('sw', 'Swahili', false, false, true),
-    Language('ln', 'Lingala', false, false, true),
+    Language('en', 'English', true, true, true),
+    Language('sw', 'Swahili', true, true, true),
+    Language('ln', 'Lingala', true, true, true),
 
   ];
 

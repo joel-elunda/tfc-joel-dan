@@ -68,7 +68,7 @@ class _TranslateInputState extends State<TranslateInput> {
               margin: EdgeInsets.only(left: 16.0),
               child: TextField(
                 focusNode: widget.focusNode,
-                controller: _textEditingController,
+                // controller: _textEditingController,
                 maxLines: null,
                 keyboardType: TextInputType.multiline,
                 onChanged:_onTextChanged,
